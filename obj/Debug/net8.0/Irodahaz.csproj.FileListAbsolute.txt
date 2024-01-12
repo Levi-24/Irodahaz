@@ -1,0 +1,14 @@
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\Irodahaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\Irodahaz.AssemblyInfoInputs.cache
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\Irodahaz.AssemblyInfo.cs
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\Irodahaz.csproj.CoreCompileInputs.cache
+C:\Users\Ny19MajorL\source\repos\Irodahaz\bin\Debug\net8.0\Irodahaz.exe
+C:\Users\Ny19MajorL\source\repos\Irodahaz\bin\Debug\net8.0\Irodahaz.deps.json
+C:\Users\Ny19MajorL\source\repos\Irodahaz\bin\Debug\net8.0\Irodahaz.runtimeconfig.json
+C:\Users\Ny19MajorL\source\repos\Irodahaz\bin\Debug\net8.0\Irodahaz.dll
+C:\Users\Ny19MajorL\source\repos\Irodahaz\bin\Debug\net8.0\Irodahaz.pdb
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\Irodahaz.dll
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\refint\Irodahaz.dll
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\Irodahaz.pdb
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\Irodahaz.genruntimeconfig.cache
+C:\Users\Ny19MajorL\source\repos\Irodahaz\obj\Debug\net8.0\ref\Irodahaz.dll
