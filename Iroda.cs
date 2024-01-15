@@ -8,12 +8,14 @@ namespace Irodahaz
 {
     internal class Iroda
     {
+        public int sorszam { get; set; }
         public string cegNev { get; set; }
         public int bekoltozesEve { get; set; }
         public List<int> irodaLetszam { get; set; }
 
-        public Iroda(string s)
+        public Iroda(int y, string s)
         {
+            sorszam = y;
             var pieces = s.Split(" ");
             this.cegNev = pieces[0];
             this.bekoltozesEve = int.Parse(pieces[1]);
@@ -25,7 +27,7 @@ namespace Irodahaz
         {
             string irodistak = "";
             for (int i = 0; i < irodaLetszam.Count; i++) { irodistak += irodaLetszam[i] + " "; }
-            return $"{this.cegNev};".PadRight(18) + $"{this.bekoltozesEve};".PadRight(10) + $"{irodistak}";
+            return $"{this.sorszam}. {this.cegNev};".PadRight(18) + $"{this.bekoltozesEve};".PadRight(10) + $"{irodistak}";
         }
     }
 
